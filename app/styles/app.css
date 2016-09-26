@@ -1,0 +1,10 @@
+.isotopePoep:not(.wasInserted){
+  display: none;
+}
+
+.wasInserted{
+  background-color: red;
+  margin: 10px;
+  min-height: 100px;
+  width: 200px;
+}
